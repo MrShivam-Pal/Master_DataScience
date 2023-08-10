@@ -31,7 +31,7 @@ Feel free to reach out, contribute, or provide feedback on any project. This rep
 # 💻 Getting Started
 
 1. Clone this repository to your local machine using:
-git clone https://github.com/MrShivam-Pal/Master_DataScience.git
+[git clone https://github.com/MrShivam-Pal/Master_DataScience.git](https://github.com/MrShivam-Pal/Master_DataScience.git)
 
 2. Install the necessary dependencies for each project using the instructions provided in their respective README files.
 
